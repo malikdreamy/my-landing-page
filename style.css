@@ -1,0 +1,55 @@
+.contactForm {
+    position: absolute;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #d1bdbd;
+    padding: 20px;
+}
+
+#mainSection {
+    position: relative;
+    display: inline-block;
+}
+
+.formInput{
+    width: 500px;
+    height: 30px;
+    margin: 10px;
+}
+
+#submit {
+    width: 100px;
+    background-color: #1a7c1d;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+#nav {
+    display: block;
+    border-radius: 5px;
+    background-color: #d1bdbd;
+    padding: 20px;
+
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+#img {
+    display: inline-block;
+}
+
+#footer {
+    display: block;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: #e18244;
+    padding: 10px;
+
+}
